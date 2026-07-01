@@ -7,7 +7,7 @@ Authors: Matteo Cipollina
 import Mathlib.Analysis.InnerProductSpace.Dual
 import Mathlib.Analysis.InnerProductSpace.PiL2
 import Mathlib.Analysis.Normed.Lp.lpSpace
-import LY.ForMathlib.Aux
+import LY.ForMathlib.AuxLemmas
 
 open scoped RealInnerProductSpace
 
